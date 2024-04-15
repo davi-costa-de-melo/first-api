@@ -1,5 +1,3 @@
-version: '3'
-
 services:
   first-api-database:
     image: bitnami/postgresql
