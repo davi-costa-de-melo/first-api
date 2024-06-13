@@ -28,10 +28,10 @@ The API also has unit tests and I plan to create E2E tests later. To run the ser
 
 ```bash
 # Clone this repository
-git clone https://github.com/davi-costa-de-melo/first-api
+git clone https://github.com/davi-costa-de-melo/nest-api
 
 # Go to the created folder
-cd first-api
+cd nest-api
 
 # Install dependencies
 pnpm i
