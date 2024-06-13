@@ -1,4 +1,4 @@
-# First API
+# Nest API
 
 Hello World! I developed this simple API just to learn how to use the [NestJS framework](https://nestjs.com).
 
